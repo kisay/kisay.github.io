@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Kisay"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/go.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Beijing China"
   email            :
@@ -247,9 +247,9 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
+      layout: splash
+      author_profile: #true
       read_time: true
       comments: # true
-      share: true
-      related: true
+      share: #true
+      related: #true

@@ -8,6 +8,8 @@ main:
     url: /mistake/
   - title: "总结"
     url: /conclusion/
+  - title: "发布"
+    url: /admin/collections/posts/new
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
